@@ -21,6 +21,7 @@ gem 'hirb', '~> 0.7.3'
 gem 'devise', '~> 4.3'
 gem 'stripe', '~> 3.3', '>= 3.3.1'
 gem 'figaro', '~> 1.1', '>= 1.1.1'
+gem 'paperclip', '~> 5.1'
 
 gem 'jquery-rails'
 # gem 'turbolinks', '~> 5'
